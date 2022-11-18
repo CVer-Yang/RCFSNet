@@ -22,4 +22,4 @@ Massachusetts
 DeepGlobe
 `python test_RCFSNet_ROAD.py`
 Massachusetts
-'test_RCFSNet_Mas.py'
+`python test_RCFSNet_Mas.py`
